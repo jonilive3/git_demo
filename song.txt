@@ -5,4 +5,3 @@ Usmihnetsya dolya
 
 PAM PARAM
 
-Modify
